@@ -4,6 +4,8 @@
 	<classPathEntry location="D:\\JavaSoft\\mysql-connector-java-5.1.39.jar" />
 	<context id="context1" targetRuntime="MyBatis3"
 		defaultModelType="flat">
+		
+		<!--test-->
 
 		<!-- 为了防止生成的代码中有很多注释，比较难看，加入下面的配置控制 -->
 		<commentGenerator>
