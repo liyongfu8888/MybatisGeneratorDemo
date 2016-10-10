@@ -1,0 +1,2 @@
+# MybatisGeneratorDemo
+mybatis逆向生成demo
